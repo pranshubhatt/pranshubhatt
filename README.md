@@ -16,11 +16,11 @@
 
 <h2 align="center"><b>About Me</b> <img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" width="28" /></h2>
 
-- 🎓 B.E. in Artificial Intelligence & Machine Learning @ RV College of Engineering (2022–2026), CGPA: 8.63[3][4]
-- 🧠 Data-driven engineer: statistical modeling, NLP/CV, real-time systems, and scalable backend APIs[3][4]
-- 🛠️ Comfortable across Python/C++/SQL, cloud, Docker/Kubernetes, and modern ML stacks[3][4]
-- 🚀 Love building end-to-end apps: from ETL and modeling to APIs, dashboards, and deployment[3][4]
-- 🤝 Open to internships, SDE/ML roles, hackathons, and impactful collaborations[3][4]
+- 🎓 B.E. in Artificial Intelligence & Machine Learning @ RV College of Engineering (2022–2026), CGPA: 8.63
+- 🧠 Data-driven engineer: statistical modeling, NLP/CV, real-time systems, and scalable backend APIs
+- 🛠️ Comfortable across Python/C++/SQL, cloud, Docker/Kubernetes, and modern ML stacks
+- 🚀 Love building end-to-end apps: from ETL and modeling to APIs, dashboards, and deployment
+- 🤝 Open to internships, SDE/ML roles, hackathons, and impactful collaborations
 
 ---
 
@@ -44,19 +44,19 @@
 
 ### 🛰️ Vireon – AI Threat Intelligence Platform
 - React, TypeScript, Tailwind, Ollama LLM[2][4]
-- Aggregates threat intel, extracts IOCs, LLM-based summarization and severity ranking, and automated report generation to improve incident response workflows[2][4]
+- Aggregates threat intel, extracts IOCs, LLM-based summarization and severity ranking, and automated report generation to improve incident response workflows
 
 ### 📰 News Analysis Dashboard
 - Python, FastAPI, Streamlit, Hugging Face, Docker[2][3][4]
-- Real-time aggregation of 10,000+ articles/day with AI sentiment analysis (92% accuracy) and bilingual TTS; boosted engagement by 25%[2][3][4]
+- Real-time aggregation of 10,000+ articles/day with AI sentiment analysis (92% accuracy) and bilingual TTS; boosted engagement by 25%
 
 ### 📮 Public Sector Grievance Redressal System
 - Flask, MySQL, NLP, RBAC[3][4]
-- Automated complaint categorization and sentiment analysis; cut manual sorting time by 40% and improved query performance by 35%[3][4]
+- Automated complaint categorization and sentiment analysis; cut manual sorting time by 40% and improved query performance by 35%
 
 ### 🤝 KindRipple – Volunteer & Donation App
 - React Native, Node.js, Geo-Map API, OCR[2][3][4]
-- ML-based volunteer-NGO matching and route optimization; reduced coordination time by 50%, onboarding time by 60%, and fraud incidents by 45%[2][3][4]
+- ML-based volunteer-NGO matching and route optimization; reduced coordination time by 50%, onboarding time by 60%, and fraud incidents by 45%
 
 ### 🍽️ Food Genius – AI Recipe Generator
 - PyTorch, Flask, NLP[4]
@@ -67,26 +67,26 @@
 <h2 align="center"><b>Data & Platforms Focus</b> <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="28" /></h2>
 
 - ETL, data pipelines, and automation with Python/SQL; Hadoop/Spark experience[3]
-- BI dashboards: Tableau, Power BI, advanced visualization[3]
-- Statistical methods: regression, A/B testing, hypothesis testing[3]
+- BI dashboards: Tableau, Power BI, advanced visualization
+- Statistical methods: regression, A/B testing, hypothesis testing
 
 ---
 
 <h2 align="center"><b>Experience</b> <img src="https://media.giphy.com/media/5WJlA1Q4YQk0E/giphy.gif" width="28" /></h2>
 
-- Machine Learning Intern — Prasunet Pvt. Ltd. (Remote) | Mar 2025 – Apr 2025[2][3][4]  
+- Machine Learning Intern — Prasunet Pvt. Ltd. (Remote) | Mar 2025 – Apr 2025
   Achieved 95% accuracy in credit card fraud detection; deployed Flask REST APIs for real-time scoring, automated alerts, and reduced false positives by 20%[2][3][4]
 
 ---
 
 <h2 align="center"><b>Certifications</b> <img src="https://media.giphy.com/media/ZbftmEwHTJIBm/giphy.gif" width="28" /></h2>
 
-- Generative AI Level 3 — Google[2][3][4]  
-- Machine Learning — Internshala[2][3][4]  
-- Understanding Agentic AI — Agent Academy[3]  
-- Programming in C/C++ & Python — Infosys/Coursera/HackerRank[2][3][4]  
-- Introduction to Operating Systems — NPTEL[4]  
-- GenAI Hackathon — RVCE[4]
+- Generative AI Level 3 — Google  
+- Machine Learning — Internshala 
+- Understanding Agentic AI — Agent Academy  
+- Programming in C/C++ & Python — Infosys/Coursera/HackerRank 
+- Introduction to Operating Systems — NPTEL  
+- GenAI Hackathon — RVCE
 
 ---
 
@@ -123,12 +123,12 @@
 
 <h2 align="center"><b>Skills Snapshot</b> <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="28" /></h2>
 
-- Languages: Python, C++, C, SQL[2][3][4]  
-- Frameworks: Flask, FastAPI, Node.js, Spring Boot, React/React Native[2][3][4]  
-- Databases: MySQL, PostgreSQL, MongoDB[2][3][4]  
-- Cloud/DevOps: AWS, GCP, Firebase, Docker, Kubernetes, Git[2][3][4]  
-- AI/ML: PyTorch, TensorFlow, NLP, CV, scikit-learn[2][3][4]  
-- Data/BI: Hadoop, Spark, Tableau, Power BI, Excel[3]
+- Languages: Python, C++, C, SQL  
+- Frameworks: Flask, FastAPI, Node.js, Spring Boot, React/React Native]  
+- Databases: MySQL, PostgreSQL, MongoDB  
+- Cloud/DevOps: AWS, GCP, Firebase, Docker, Kubernetes, Git 
+- AI/ML: PyTorch, TensorFlow, NLP, CV, scikit-learn  
+- Data/BI: Hadoop, Spark, Tableau, Power BI, Excel
 
 ---
 
